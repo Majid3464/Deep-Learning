@@ -1,3 +1,3 @@
 # Deep-Learning
 
-A comprehensive guide to How to use Conventional neural networks in image classification
+A comprehensive guide on how to use conventional neural networks in image classification problems.
